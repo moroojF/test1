@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\ICON\Documents\.idea\codeStyles\Project.xml" timestamp="1580662171735" />
+    <file path="C:\Users\ICON\Documents\.idea\gradle.xml" timestamp="1580662470790" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_annotation_annotation_1_0_0_jar.xml" timestamp="1580662470919" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" timestamp="1580662471005" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" timestamp="1580662471078" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1580662471169" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" timestamp="1580662471271" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_collection_collection_1_0_0_jar.xml" timestamp="1580662471376" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" timestamp="1580662471457" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_core_core_1_0_1_aar.xml" timestamp="1580662471547" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1580662471646" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1580662471704" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" timestamp="1580662471779" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1580662471852" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_fragment_fragment_1_0_0_aar.xml" timestamp="1580662471890" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1580662471994" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" timestamp="1580662472125" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" timestamp="1580662472258" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" timestamp="1580662472381" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" timestamp="1580662472445" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1580662472508" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1580662472605" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" timestamp="1580662472662" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" timestamp="1580662472721" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1580662472775" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" timestamp="1580662472829" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_media_media_1_0_0_aar.xml" timestamp="1580662472894" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_print_print_1_0_0_aar.xml" timestamp="1580662472953" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" timestamp="1580662473011" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" timestamp="1580662473090" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_test_core_1_1_0_aar.xml" timestamp="1580662473191" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" timestamp="1580662473255" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" timestamp="1580662473334" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_0_aar.xml" timestamp="1580662473375" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_test_monitor_1_1_1_aar.xml" timestamp="1580662473424" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_test_runner_1_1_1_aar.xml" timestamp="1580662473463" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" timestamp="1580662473503" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" timestamp="1580662473561" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" timestamp="1580662473600" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1580662473637" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" timestamp="1580662473682" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__com_google_android_gms_play_services_basement_16_0_1_aar.xml" timestamp="1580662473715" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__com_google_android_gms_play_services_maps_16_1_0_aar.xml" timestamp="1580662473763" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" timestamp="1580662473808" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1580662473844" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1580662473927" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1580662473958" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1580662474002" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1580662474049" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1580662474114" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1580662474175" />
+    <file path="C:\Users\ICON\Documents\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1580662474220" />
+    <file path="C:\Users\ICON\Documents\.idea\misc.xml" timestamp="1580662719946" />
+    <file path="C:\Users\ICON\Documents\.idea\modules.xml" timestamp="1580662470547" />
+    <file path="C:\Users\ICON\Documents\.idea\runConfigurations.xml" timestamp="1580662171779" />
+    <file path="C:\Users\ICON\Documents\.idea\workspace.xml" timestamp="1581923196438" />
+    <file path="C:\Users\ICON\Documents\app\app.iml" timestamp="1580662719820" />
+    <file path="C:\Users\ICON\Documents\try.iml" timestamp="1581923079584" />
+  </project-files>
+</conversion>
+
